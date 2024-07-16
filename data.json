@@ -1,0 +1,526 @@
+{"current_station":{
+    "lat": 24.7964355,
+    "name": "GAYA JN",
+    "lng": 85.0079563,
+    "code": "GAYA"
+},
+"position": "Train arrived at GAYA JN(GAYA) and late by 101 minutes.",
+"debit": 2,
+"route": [{
+        "actdep": "20:23",
+        "schdep": "20:15",
+        "actarrdate": "27 Oct 2018",
+        "status": "0 mins late",
+        "scharr": "Source",
+        "has_departed": true,
+        "scharrdate": "27 Oct 2018",
+        "day": 0,
+        "distance": 0,
+        "actarr": "00:00",
+        "latemin": 0,
+        "station": {
+            "lat": 26.2967719,
+            "name": "JODHPUR JN",
+            "lng": 73.0351433,
+            "code": "JU"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "22:30",
+        "schdep": "22:00",
+        "actarrdate": "27 Oct 2018",
+        "status": "27 mins late",
+        "scharr": "21:33",
+        "has_departed": true,
+        "scharrdate": "27 Oct 2018",
+        "day": 0,
+        "distance": 104,
+        "actarr": "22:00",
+        "latemin": 27,
+        "station": {
+            "lat": 26.7243947,
+            "name": "MERTA ROAD JN",
+            "lng": 73.9180415,
+            "code": "MTD"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "23:18",
+        "schdep": "22:36",
+        "actarrdate": "27 Oct 2018",
+        "status": "34 mins late",
+        "scharr": "22:33",
+        "has_departed": true,
+        "scharrdate": "27 Oct 2018",
+        "day": 0,
+        "distance": 149,
+        "actarr": "23:07",
+        "latemin": 34,
+        "station": {
+            "lat": 42.940686,
+            "name": "DEGANA JN",
+            "lng": -6.5712491,
+            "code": "DGN"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "23:45",
+        "schdep": "23:08",
+        "actarrdate": "27 Oct 2018",
+        "status": "37 mins late",
+        "scharr": "23:05",
+        "has_departed": true,
+        "scharrdate": "27 Oct 2018",
+        "day": 0,
+        "distance": 193,
+        "actarr": "23:42",
+        "latemin": 37,
+        "station": {
+            "lat": 27.0388103,
+            "name": "MAKRANA IN",
+            "lng": 74.7271171,
+            "code": "MKN"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "00:02",
+        "schdep": "23:24",
+        "actarrdate": "28 Oct 2018",
+        "status": "38 mins late",
+        "scharr": "23:22",
+        "has_departed": true,
+        "scharrdate": "27 Oct 2018",
+        "day": 1,
+        "distance": 207,
+        "actarr": "0:00",
+        "latemin": 38,
+        "station": {
+            "lat": 27.0523888,
+            "name": "KUCHAMANCITY",
+            "lng": 24.8514749,
+            "code": "KC"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "00: 22",
+        "schdep": "23: 46",
+        "actarrdate": "28 Oct2018",
+        "status": "42 mins -late",
+        "scharr": "23:39",
+        "has_departed": true,
+        "scharrdate": "27Oct2018",
+        "day": 1,
+        "distance": 222,
+        "actarr": "01:21",
+        "latemin": 42,
+        "station": {
+            "lat": 27.0292553,
+            "name": "NAWACITY",
+            "lng": 75.8010302,
+            "code": "NAC"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "02: 19",
+        "schdep": "2:10",
+        "actarrdate": "28Oct2018",
+        "status": "32minslate",
+        "scharr": "01:58",
+        "has_departed": true,
+        "scharrdate": "28Oct2018",
+        "day": 1,
+        "distance": 312,
+        "actarr": "02:10",
+        "latemin": 12,
+        "station": {
+            "lat": 26.916194,
+            "name": "JAIPUR",
+            "lng": 75.628349,
+            "code": "JP"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "03:15",
+        "schdep": "02:45",
+        "actarrdate": "28Oct2018",
+        "status": "14minslate",
+        "scharr": "02:44",
+        "has_departed": true,
+        "scharrdate": "28Oct2018",
+        "day": 1,
+        "distance": 522,
+        "actarr": "02:58",
+        "latemin": 14,
+        "station": {
+            "lat": 22.686822,
+            "name": "BHARATPUR JN",
+            "lng": 84.439817,
+            "code": "BRT"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "05:41",
+        "schdep": "05:16",
+        "actarrdate": "28 Oct 2018",
+        "status": "25 mins late",
+        "scharr": "05:08",
+        "has_departed": true,
+        "scharrdate": "28 Oct 2018",
+        "day": 1,
+        "distance": 553,
+        "actarr": "05:33",
+        "latemin": 25,
+        "station": {
+            "lat": 27.181791,
+            "name": "ACHHNERA IN",
+            "long": 77.7579556,
+            "code": "ACH"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "06:35",
+        "schdep": "06:20",
+        "actarrdate": "28 Oct 2018",
+        "status": "15 mins late",
+        "scharr": "05:55",
+        "has_departed": true,
+        "scharrdate": "28 Oct 2018",
+        "day": 1,
+        "distance": 576,
+        "actarr": "06:10",
+        "latemin": 15,
+        "station": {
+            "lat": 27.17982145,
+            "name": "AGRA FORT",
+            "lng": 78.0211040668542,
+            "code": "AF"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "07:40",
+        "schdep": "07:40",
+        "actarrdate": "28 Oct 2018",
+        "status": "-8 mins late",
+        "scharr": "07:35",
+        "has_departed": true,
+        "scharrdate": "28 Oct 2018",
+        "day": 1,
+        "distance": 612,
+        "actarr": "07:27",
+        "latemin": -8,
+        "station": {
+            "lat": 27.2132859,
+            "name": "TUNDLA JN",
+            "lng": 78.2371117,
+            "code": "TUL"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "08:55",
+        "schdep": "08:42",
+        "actarrdate": "28 Oct 2018",
+        "status": "14 mins late",
+        "scharr": "08:40",
+        "has_departed": true,
+        "scharrdate": "28 Oct 2018",
+        "day": 1,
+        "distance": 668,
+        "actarr": "08:54",
+        "latemin": 14,
+        "station": {
+            "lat": 26.8063069,
+            "name": "ETAWAH",
+            "lng": 78.9969944,
+            "code": "ETW"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "12:13",
+        "schdep": "11:00",
+        "actarrdate": "28 Oct 2018",
+        "status": "91 mins late",
+        "scharr": "12:03",
+        "has_departed": true,
+        "scharrdate": "28 Oct 2018",
+        "day": 1,
+        "distance": 884,
+        "actarr": "13:34",
+        "latemin": 91,
+        "station": {
+            "lat": 25.75,
+            "name": "FATEHPUR",
+            "Ing": 80.7,
+            "code": "FTH"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "15:35",
+        "schdep": "14:10",
+        "actarrdate": "28Oct2018",
+        "status": "69minslate",
+        "scharr": "14:00",
+        "has_departed": true,
+        "scharrdate": "28Oct2018",
+        "day": 1,
+        "distance": 1001,
+        "actarr": "15:09",
+        "latemin": 69,
+        "station": {
+            "lat": 25.4381302,
+            "name": "ALLAHABADJN",
+            "lng": 81.8338805,
+            "code": "ALL"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "17:06",
+        "schdep": "15:25",
+        "actarrdate": "28 Oct2018",
+        "status": "101minslate",
+        "scharr": "15:23",
+        "has departed": true,
+        "scharrdate": "28 Oct 2018",
+        "day": 1,
+        "distance": 1267,
+        "actarr": "17:04",
+        "latemin": 101,
+        "station": {
+            "lat": 20.7954355,
+            "name": "GAYAJN",
+            "lng": 85.6079563,
+            "code": "GAYA"
+        },
+        "has_arrived": true
+    },
+    {
+        "actdep": "18:27",
+        "schdep": "18:24",
+        "actarrdate": "29 Oct 2018",
+        "status": "113 mins late",
+        "scharr": "18:22",
+        "has_departed": false,
+        "scharrdate": "29-Oct 2018",
+        "day": 2,
+        "distance": 1383,
+        "actarr": "20:15",
+        "latemin": 113,
+        "station": {
+            "lat": 24.385588,
+            "name": "RODERMA",
+            "lng": 85.562428606583,
+            "code": "RDA"
+        },
+        "has_arrived": false
+    },
+    {
+        "actdep": "21:13",
+        "schdep": "22:21",
+        "actarrdate": "29 Oct 2018",
+        "status": "177 mins late",
+        "scharr": "22:26",
+        "has_departed": false,
+        "scharrdate": "28 Oct 2018",
+        "day": 2,
+        "distance": 1438,
+        "actarr": "01:15",
+        "latemin": 177,
+        "station": {
+            "lat": 23.387738,
+            "name": "PARASMIATH",
+            "lng": 88.0372584,
+            "code": "PSM"
+        },
+        "has_arrived": false
+    },
+    {
+        "actdep": "02:10",
+        "schdep": "23:40",
+        "actarrdate": "29 Oct 2018",
+        "status": "149 mins late",
+        "scharr": "23:30",
+        "has_departed": false,
+        "scharrdate": "28 Oct 2018",
+        "day": 2,
+        "distance": 1585,
+        "actarr": "01:59",
+        "latemin": 149,
+        "station": {
+            "lat": 25.7952603,
+            "name": "THANGAD JA",
+            "lng": 86.4339838,
+            "code": "TJ"
+        },
+        "has_arrived": false
+    },
+    {
+        "actdep": "03:20",
+        "schdep": "03:02",
+        "actarrdate": "29 Oct 2018",
+        "status": "128 mins lats",
+        "scharr": "02:47",
+        "has_departed": false,
+        "scharrdate": "29 Oct 2018",
+        "day": 2,
+        "distance": 1611,
+        "actarr": "03:05",
+        "latemin": 128,
+        "station": {
+            "lat": 22.0971297,
+            "name": "DHANBAD",
+            "lng": 86.972656,
+            "code": "DHN"
+        },
+        "has_arrived": false
+    },
+    {
+        "actdep": "05:16",
+        "schdep": "05:12",
+        "actarrdate": "29Oct2018",
+        "status": "114 mins late",
+        "scharr": "3:01",
+        "has_deperted": false,
+        "scharrdate": "29Oct2018",
+        "day": 2,
+        "distance": 1686,
+        "actarr": "04:55",
+        "latemin": 114,
+        "station": {
+            "lat": 23.6871297,
+            "name": "ASANSOLIN",
+            "lng": 86.9746587,
+            "code": "ASN"
+        },
+        "has_arrived": false
+    },
+    {
+        "actdep": "07:16",
+        "schdep": "06:22",
+        "actarrdate": "29Oct2018",
+        "status": "114minslate",
+        "scharr": "06:20",
+        "has_departed": false,
+        "scharr_date": "29Oct2018",
+        "day": 2,
+        "distance": 1718,
+        "actarr": "07:14",
+        "latemin": 54,
+        "station": {
+            "lat": 23.25,
+            "name": "BARDDHAMAN",
+            "lng": 87.75,
+            "code": "BWN"
+        },
+        "has_arrived": false
+    },
+    {
+        "actdep": "00: 00",
+        "schdep": "Destination",
+        "actarrdate": "29Oct2018",
+        "status": "73minslate",
+        "scharr": "07:15",
+        "has_departed": false,
+        "scharrdate": "29Oct2018",
+        "day": 2,
+        "distance": 1812,
+        "actarr": "08:28",
+        "latemin": 73,
+        "station": {
+            "lat": 22.5882216,
+            "name": "HOWRAHIN",
+            "lng": 88.323139,
+            "code": "HWH"
+        },
+        "has_arrived": false
+    }
+] ,
+    "response_code": 200,
+    "train": {
+        "days": [{
+                "code": "MON",
+                "runs": "Y"
+            },
+            {
+                "code": "TUE",
+                "runs": "Y"
+            },
+            {
+                "code": "WED",
+                "runs": "Y"
+            },
+            {
+                "code": "THU",
+                "runs": "Y"
+            },
+            {
+                "code": "FRI",
+                "runs": "Y"
+            },
+            {
+                "code": "SAT",
+                "runs": "Y"
+            },
+            {
+                "code": "SUN",
+                "runs": "Y"
+            }
+        ],
+        "name": "JU-HWHSUPFAST",
+        "classes": [{
+                "available": "Y",
+                "name": "SECONDAC",
+                "code": "SC"
+            },
+            {
+                "available": "N",
+                "name": "FIRSTCLASS",
+                "code": "FC"
+            },
+            {
+                "available": "N",
+                "name": "SECONDSEATING",
+                "code": "25"
+            },
+            {
+                "available": "N",
+                "name": "ACCHAIRCAR",
+                "code": "CC"
+            },
+            {
+                "available": "Y",
+                "name": "THIRDAC",
+                "code": "3A"
+            },
+            {
+                "available": "N",
+                "name": "3rdACECONOMY",
+                "code": "3E"
+            },
+            {
+                "available": "N",
+                "name": "FIRSTAC",
+                "code": "TA"
+            },
+            {
+                "available": "Y",
+                "name": "SLEEPERCLASS",
+                "code": "SL"
+            }
+        ], 
+            "number": "12308"
+        },
+            "startdate":"27Oct2018"
+        }
